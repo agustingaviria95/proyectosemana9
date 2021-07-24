@@ -1,0 +1,8 @@
+.movies-grid {
+    background-color: black;
+    color: white;
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(250px,1fr));
+    padding: 20x;
+    gap: 20px;
+}
